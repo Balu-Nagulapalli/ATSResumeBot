@@ -1,0 +1,7 @@
+[
+  {
+    "jd": "Senior Full-Stack Developer\nJob Summary: Build scalable web applications with our engineering team.\nRequired skills: JavaScript, React, Node.js, Python, AWS, Docker, PostgreSQL, MongoDB, Git, REST APIs.\nPreferred skills: TypeScript, Kubernetes, GraphQL, Redis, Microservices Architecture.\nExperience required: 5+ years professional software development.\nEducation: Bachelor's degree in Computer Science or related field.\nResponsibilities: Build scalable web applications; lead code reviews; mentor junior developers; improve performance and security; implement CI/CD pipelines; collaborate with cross-functional teams.",
+    "resume": "Alex Example\nSenior Full-Stack Developer\nalex@example.test\nProfessional summary: 7 years experience.\nSkills: JavaScript, Python, TypeScript, React, Node.js, GraphQL, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, CI/CD, Microservices, REST APIs.\nExperience: Senior Full-Stack Developer\nLed development team. Redesigned services using microservices. Reduced API response time by 40%. Implemented Kubernetes-based CI/CD pipeline. Mentored junior developers. Built React applications with Node.js. Managed AWS infrastructure.\nEducation: Bachelor of Science in Computer Science.",
+    "expected_score": 95
+  }
+]
